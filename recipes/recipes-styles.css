@@ -5,8 +5,12 @@ body {
   font-family: Fredoka One;
 }
 
+h1 {
+  background-color: #f87171;
+  text-align: center;
+}
 h2 {
-  font-size: 160%;
+  font-size: 200%;
 }
 h3 {
   font-size: 140%;
@@ -18,9 +22,18 @@ li {
 }
 
 img {
-  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
+div {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 button {
   background-color: #f87171;
   padding: 20px;
