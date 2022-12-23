@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+
+body {
+  background-color: #fecaca;
+  font-family: Fredoka One;
+  text-align: center;
+}
+h1 {
+  font-size: 54px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+p {
+  font-size: 18px;
+}
+
+li {
+  font-size: 28px;
+}
+
+.main {
+  list-style: none;
+}
